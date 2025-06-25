@@ -11,6 +11,7 @@ Dynamic fruit spawning and game loop
 Score tracking with Game Over and replay functionality
 
 Simple and engaging visual feedback
+____________________________________________
 
 📦 Requirements
 Python 3.7+
@@ -18,6 +19,7 @@ Python 3.7+
 OpenCV
 
 MediaPipe
+____________________________________________
 
 Install dependencies with:
 
@@ -34,6 +36,7 @@ Move your index finger in front of the webcam to slice fruits.
 Press q to quit.
 
 After game over, press r to restart.
+_____________________________________________
 
 🧠 How It Works
 MediaPipe tracks your index fingertip.
